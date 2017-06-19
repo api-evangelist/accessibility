@@ -1,8 +1,112 @@
 ---
-- curated_id: a59eee0198ede2fc2a9cfe3deff74662
-  item_date: "2015-01-07 00:00:00"
-  title: 'Factual Featured Partner: Snips'
-  url: http://blog.factual.com
-  domain: blog.factual.com
+- curated_id: a4bd6f455a9880f9afe9dd5797b56096
+  item_date: "2015-02-20 00:00:00"
+  title: Accessibility Is (Not) Scary
+  url: http://www.digitalgov.gov/2015/02/20/accessibility-is-not-scary-2/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: e09dc5b0d9e980908209b96ee022dbc6
+  item_date: "2015-03-16 00:00:00"
+  title: 'Accessibility APIs: A Key To Web Accessibility'
+  url: https://www.smashingmagazine.com/2015/03/web-accessibility-with-accessibility-api/
+  domain: www.smashingmagazine.com
+  image: ""
+- curated_id: 09de8502724c4ca17869767786c2e540
+  item_date: "2015-04-13 00:00:00"
+  title: Facebook Scrambles to Meet Security and Accessibility Needs
+  url: http://www.programmableweb.com/news/facebook-scrambles-to-meet-security-and-accessibility-needs/brief/2015/04/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e461ec9c674779744be0a232af2e9745
+  item_date: "2015-06-05 00:00:00"
+  title: Using Section 508 Guidance to Improve the Accessibility of Government Services
+  url: http://www.digitalgov.gov/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: 8b8c8da9c9d0f5e65030c8c21b9429bb
+  item_date: "2015-11-24 09:32:39"
+  title: Facebook outfits React with Accessibility API
+  url: http://www.infoworld.com/article/3007839/javascript/facebook-outfits-react-with-accessibility-javascript-api.html
+  domain: www.infoworld.com
+  image: ""
+- curated_id: 63f394d78bef7571e1ad0472a645cd8d
+  item_date: "2016-03-29 00:00:00"
+  title: Accessible images for everyone
+  url: https://blog.twitter.com/2016/accessible-images-for-everyone
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 9649edb60abf8cffdccdbf2cf88a10ad
+  item_date: "2016-03-29 00:00:00"
+  title: Twitter makes images better for the visually impaired
+  url: http://venturebeat.com/2016/03/29/twitter-makes-images-better-for-the-visually-impaired/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 125e866cc79e9b5757835e406ba3214d
+  item_date: "2016-03-30 00:00:00"
+  title: Twitter Enables Visually Impaired People To Feel Images
+  url: http://www.valuewalk.com/2016/03/twitter-visually-impaired-feel-images/
+  domain: www.valuewalk.com
+  image: ""
+- curated_id: fa4896d6025c5e9562fb80647ff12bc9
+  item_date: "2016-04-06 00:00:00"
+  title: 'From Nieman Reports: Why your news site should be more readable for the
+    visually impaired'
+  url: http://www.niemanlab.org/2016/04/from-nieman-reports-why-your-news-site-should-be-more-readable-for-the-visually-impaired/
+  domain: www.niemanlab.org
+  image: ""
+- curated_id: ba5bd8b09674e4f5eace6235bfab185f
+  item_date: "2016-04-28 00:00:00"
+  title: FCC approves real-time text proposal to aid people with disabilities
+  url: http://www.theverge.com/2016/4/28/11534002/fcc-rtt-tty-replacement
+  domain: www.theverge.com
+  image: ""
+- curated_id: 99cc805d8ce0abe834f2798528e77a51
+  item_date: "2016-09-30 00:00:00"
+  title: Securing the right to read for the visually impaired
+  url: https://creativecommons.org/2016/09/30/securing-right-read-visually-impaired/
+  domain: creativecommons.org
+  image: ""
+- curated_id: e3980c9898e1d659ec792f55a2cc1737
+  item_date: "2016-10-14 00:00:00"
+  title: Accessibility Gotchas at Duo
+  url: https://duo.com/blog/accessibility-gotchas-at-duo
+  domain: duo.com
+  image: ""
+- curated_id: d38e9120dee4fa74b1a205b96eb3cd7f
+  item_date: "2016-12-15 00:00:00"
+  title: A group of Google employees spent their 20% time making Google Maps wheelchair-friendly
+    (GOOG)
+  url: http://www.businessinsider.com/google-maps-is-now-wheelchair-friendly-accessible-20-percent-time-employee-project-2016-12
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 1afb97178de90ced4a9dc0cd5b62bcf1
+  item_date: "2017-02-02 00:00:00"
+  title: "Accessibility features on the Roku\xAE platform"
+  url: https://blog.roku.com/blog/2017/02/02/accessibility-features-roku-platform/
+  domain: blog.roku.com
+  image: ""
+- curated_id: 0a615e5cc6b9a8abde3c6cf1a19ef9a3
+  item_date: "2017-02-23 00:00:00"
+  title: How iBeacons could help blind people navigate roadworks
+  url: http://www.bbc.co.uk/news/technology-39041371
+  domain: www.bbc.co.uk
+  image: ""
+- curated_id: b9d68769324d52fc9d958148aa90fe8b
+  item_date: "2017-03-11 00:00:00"
+  title: "How Blind People \u2018See\u2019 the iPhone With Their Fingers"
+  url: http://finance.yahoo.com/news/david-pogue-on-iphone-voiceover-163733668.html
+  domain: finance.yahoo.com
+  image: ""
+- curated_id: bb0aeeedf14aba757288fea3a08d133b
+  item_date: "2017-03-14 00:00:00"
+  title: Accessibility Standards Get a Much-Needed Refresh
+  url: https://blogs.adobe.com/documentcloud/accessibility-standards-get-a-much-needed-refresh/
+  domain: blogs.adobe.com
+  image: ""
+- curated_id: de7ddd837eb80c008bfdc8bc5e7cc17d
+  item_date: "2017-03-22 00:00:00"
+  title: The Dot Braille Smartwatch | Reading Time And Texts By Touch
+  url: http://blog.gessato.com/2017/03/22/the-dot-braille-smartwatch-reading-time-and-texts-by-touch/
+  domain: blog.gessato.com
   image: ""
 ...
